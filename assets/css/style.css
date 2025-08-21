@@ -68,7 +68,7 @@ html {
 }
 
 .container {
-    overflow:hidden;
+    overflow: hidden;
     min-height: 100vh
 }
 
@@ -1302,7 +1302,7 @@ html {
 
     .bannerRightSection {
         margin: 0 auto;
-        padding: 20px
+        padding: 0px
     }
 
     .bannerFormTitle {
@@ -4295,9 +4295,9 @@ html {
         fill: white
     }
 
-    body {
+    /* body {
         padding-bottom: 80px
-    }
+    } */
 
     .navbarPhoneWhatsapp {
         display: none
