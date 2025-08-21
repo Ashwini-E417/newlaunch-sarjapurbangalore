@@ -1,0 +1,5 @@
+name = "aureva-prabhadevi"
+compatibility_date = "2025-07-22"
+
+[site]
+bucket = "."
